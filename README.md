@@ -27,6 +27,9 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 - Entries Dashboard -- >
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3138912070677343/4331759746122502/5733875335111541/latest.html
 
+## Dependancies 
+- Maven library for reading Excel files, **com.crealytics:spark-excel_2.12:0.13.5**
+  
 ## Link to Actual Dataset
 
 Datasets are also added in the Repo and the dataset used in this project is sourced from Kaggle.
