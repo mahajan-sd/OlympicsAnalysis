@@ -21,7 +21,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 - Atheletes Dashboard -- >
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3138912070677343/2140086525127547/5733875335111541/latest.html
 
-- Coaches Dashboard -- ]
+- Coaches Dashboard -- >
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3138912070677343/4331759746122486/5733875335111541/latest.html
 
 - Entries Dashboard -- >
