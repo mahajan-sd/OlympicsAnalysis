@@ -1,1 +1,7 @@
-This is description for the data
+There are total 5 Excel sheets available in this project.
+Every sheet has its own definite character.
+Athelets - > All data related to Athelets is stored in this sheet.
+Coaches - > Data related to Coaches available here, with country wise and sport wise.
+Entries - > Gender wise data by countries.
+Medals - > This is a dataset which has data realted to all the medals won, gold, silver, bronze and total.
+Teams - > country wise teams data.
